@@ -1,0 +1,11 @@
+alias sudo='sudo '
+alias s="git status"
+alias aa="git add --all"
+alias c="git commit -m"
+alias push="git push -u"
+alias merge="git merge"
+alias pull="git pull"
+alias r="ranger"
+alias push="git pull && git push -u"
+alias py="python3"
+alias hallelujah="alert; play -V0 -q --buffer 16000 ~/Music/hallelujahshort.swf.mp3 &"
